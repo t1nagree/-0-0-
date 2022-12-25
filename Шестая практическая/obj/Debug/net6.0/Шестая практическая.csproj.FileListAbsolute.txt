@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Шестая практическая.exe
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Шестая практическая.deps.json
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Шестая практическая.runtimeconfig.json
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Шестая практическая.dll
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Шестая практическая.pdb
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.AssemblyInfo.cs
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.dll
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\refint\Шестая практическая.dll
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.pdb
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.genruntimeconfig.cache
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\ref\Шестая практическая.dll
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Шестая практическая\Шестая практическая\obj\Debug\net6.0\Шестая практическая.csproj.CopyComplete

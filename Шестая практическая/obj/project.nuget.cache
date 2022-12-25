@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sc346QeqfLTlWAlO/zjH9vyBiLPMmAIQ9TlK01xXawkmojk9vDyUYlC5RTVyWPl+BOirqpv2AsinjggMpiufzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Шестая практическая\\Шестая практическая\\Шестая практическая.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
